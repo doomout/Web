@@ -14,6 +14,7 @@
 		AD0469792952BAAA002B23C0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AD0469782952BAAA002B23C0 /* Assets.xcassets */; };
 		AD04697C2952BAAA002B23C0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AD04697A2952BAAA002B23C0 /* LaunchScreen.storyboard */; };
 		AD0469852952E502002B23C0 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = AD0469842952DF04002B23C0 /* README.md */; };
+		AD0469872953780F002B23C0 /* htmlView.html in Resources */ = {isa = PBXBuildFile; fileRef = AD0469862953780F002B23C0 /* htmlView.html */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		AD04697B2952BAAA002B23C0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AD04697D2952BAAA002B23C0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		AD0469842952DF04002B23C0 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		AD0469862953780F002B23C0 /* htmlView.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = htmlView.html; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				AD04696F2952BAA9002B23C0 /* AppDelegate.swift */,
 				AD0469712952BAA9002B23C0 /* SceneDelegate.swift */,
 				AD0469732952BAA9002B23C0 /* ViewController.swift */,
+				AD0469862953780F002B23C0 /* htmlView.html */,
 				AD0469752952BAA9002B23C0 /* Main.storyboard */,
 				AD0469782952BAAA002B23C0 /* Assets.xcassets */,
 				AD04697A2952BAAA002B23C0 /* LaunchScreen.storyboard */,
@@ -130,6 +133,7 @@
 			files = (
 				AD04697C2952BAAA002B23C0 /* LaunchScreen.storyboard in Resources */,
 				AD0469792952BAAA002B23C0 /* Assets.xcassets in Resources */,
+				AD0469872953780F002B23C0 /* htmlView.html in Resources */,
 				AD0469852952E502002B23C0 /* README.md in Resources */,
 				AD0469772952BAA9002B23C0 /* Main.storyboard in Resources */,
 			);
