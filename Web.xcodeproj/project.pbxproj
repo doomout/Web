@@ -13,6 +13,7 @@
 		AD0469772952BAA9002B23C0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AD0469752952BAA9002B23C0 /* Main.storyboard */; };
 		AD0469792952BAAA002B23C0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AD0469782952BAAA002B23C0 /* Assets.xcassets */; };
 		AD04697C2952BAAA002B23C0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AD04697A2952BAAA002B23C0 /* LaunchScreen.storyboard */; };
+		AD0469852952E502002B23C0 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = AD0469842952DF04002B23C0 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -129,6 +130,7 @@
 			files = (
 				AD04697C2952BAAA002B23C0 /* LaunchScreen.storyboard in Resources */,
 				AD0469792952BAAA002B23C0 /* Assets.xcassets in Resources */,
+				AD0469852952E502002B23C0 /* README.md in Resources */,
 				AD0469772952BAA9002B23C0 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
